@@ -1,0 +1,19 @@
+{
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev -p 9090",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "devDependencies": {
+    "nuxt": "3.0.0"
+    
+  },
+  "dependencies": {
+    "sass": "^1.56.1",
+    "tailwind": "^4.0.0",
+    "vuetify": "^3.0.3"
+  }
+}

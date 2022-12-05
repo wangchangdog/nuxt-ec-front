@@ -6,6 +6,6 @@
 
 <script lang="ts">
 export default  {
-  name: 'SideBar'
+  name: 'SiteSideBar'
 }
 </script>
